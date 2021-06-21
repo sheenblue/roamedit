@@ -1,0 +1,7 @@
+/*换行*/
+#detail-wrap .node-text {
+    white-space: pre-line;
+}
+.plugin-outline-wrap .node {
+  white-space: nowrap;
+}
