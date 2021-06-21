@@ -5,3 +5,110 @@
 .plugin-outline-wrap .node {
   white-space: nowrap;
 }
+/*标签颜色*/
+.plugin-outline-wrap .node .node-text a {
+    border-bottom: 0;
+}
+.bq0 a:nth-child(1){
+       color: #eeeeee!important;
+   background-color: #f0ad4e;
+   border-radius: 10px;
+   padding-left: 10px !important;;
+   padding-right: 10px !important;;
+   font-weight: bold;
+
+}
+.bq1 a:nth-child(2){
+       color: #eeeeee!important;
+   background-color: #f15f79;
+    border-radius: 10px;
+   padding-left: 10px !important;;
+   padding-right: 10px !important;;
+   font-weight: bold;
+
+}
+.bq2 a:nth-child(3){
+       color: #eeeeee!important;
+   background-color: #5cb85c;
+    border-radius: 10px;
+   padding-left: 10px !important;;
+   padding-right: 10px !important;;
+   font-weight: bold;
+
+}
+.bq3 a:nth-child(4){
+       color: #eeeeee!important;
+   background-color: #fed330;
+   border-radius: 10px;
+   padding-left: 10px !important;;
+   padding-right: 10px !important;;
+   font-weight: bold;
+
+}
+.bq4 a:nth-child(5){
+       color: #eeeeee!important;
+   background-color: #d44eea;
+    border-radius: 10px;
+   padding-left: 10px !important;;
+   padding-right: 10px !important;;
+   font-weight: bold;
+
+}
+.bq5 a:nth-child(6){
+       color: #eeeeee!important;
+   background-color:#03a9f4;
+    border-radius: 10px;
+   padding-left: 10px !important;;
+   padding-right: 10px !important;;
+   font-weight: bold;
+
+}
+.bq6 a:nth-child(7){
+       color: #eeeeee!important;
+   background-color: #9e74f1;
+   border-radius: 10px;
+   padding-left: 10px !important;;
+   padding-right: 10px !important;;
+   font-weight: bold;
+
+}
+.bq7 a:nth-child(8){
+       color: #eeeeee!important;
+   background-color: #2bcbba;
+    border-radius: 10px;
+   padding-left: 10px !important;;
+   padding-right: 10px !important;;
+   font-weight: bold;
+
+}
+.bq8 a:nth-child(9){
+       color: #eeeeee!important;
+   background-color: #45aaf2;
+    border-radius: 10px;
+   padding-left: 10px !important;;
+   padding-right: 10px !important;;
+   font-weight: bold;
+
+}
+.bq9 a:nth-child(10){
+       color: #eeeeee!important;
+   background-color: #fc5c65;
+   border-radius: 10px;
+   padding-left: 10px !important;;
+   padding-right: 10px !important;;
+   font-weight: bold;
+
+}
+.bq10 a:nth-child(11){
+    color: #eeeeee!important;
+background-color: #4feaf5;
+border-radius: 10px;
+padding-left: 10px !important;;
+padding-right: 10px !important;;
+font-weight: bold;
+
+}
+/*文字对齐*/
+t{text-align: center;}
+.tlt{text-align: left;}
+.trt{text-align: right;}
