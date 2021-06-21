@@ -35,4 +35,6 @@ p .node-top[layout=kanban].node-top > .kanban-wrap {
     overflow-y: auto;
     max-height: 660px;
 }
-
+/*修改看板宽度*/
+.nodes{
+    flex-basis: 600px !important;
