@@ -68,7 +68,7 @@ body#jShape.theme-night .sidebar {
 }
 #jShape [ps]:not(.inline-text) {
     text-decoration: none;
-    font-family: "Hiragino Sans GB" !important;
+    
 }
 body#jShape.theme-night #detail-wrap .nmarkdown .refer-text {
     color: var(--kuaiqianru-color) !important;
@@ -561,7 +561,7 @@ background: #0000001a;
     margin: 1px 0px 0 13px;
     color: #000000c2;
     font-size: 15px;
-    font-family: 'Muli';
+    
 }
 body#jShape.theme-night #star-wrap > div {
     padding-left: 8px;
@@ -585,7 +585,7 @@ body#jShape.theme-night #star-wrap > div {
     word-break: break-word;
 }
 .theme-orange .navbar-brand {
-    font-family: Cambria;
+    
     font-size: 23px;
     line-height: 1;
 }
@@ -2059,7 +2059,6 @@ body#jShape.theme-night #detail-wrap .nmarkdown .check-btn::before {
     font-size: 15px;
     line-height: 180%;
     word-break: break-all;
-    font-family: "Hiragino Sans GB" !important;
     letter-spacing: 1px;
 }
 
