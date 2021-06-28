@@ -338,7 +338,7 @@ span.icon-star {
     padding-left: 5px;
 }
 .plugin-outline-wrap .outline-wrap > .node .node-top-text {
-    font-size: 24px;
+    
 
 }
 #roam-main-wrap .plugin-outline-wrap .outline-wrap > .node {
@@ -409,7 +409,7 @@ body#jShape.theme-night .node[mystyle="瀑布流"]>.node-child>.node,body#jShape
 }
 body#jShape.theme-night #detail-wrap .node-search-result:not(.plg-cmd-search) > .node-child > .node > .node-head > .node-text {
     color: var(--theme-color);
-    font-size: 20px;
+   
     cursor: pointer;
     font-weight: 400;
 }
@@ -473,7 +473,7 @@ border-radius: 9px 3px 3px 9px;
 
 /*——————————————————————多彩标签————————————————————————*/
 #detail-wrap .node:not(.node-top):not(.node-topic)[layout=panel] > .node-head > .node-text * {
-    font-size: 17px !important;
+    
 }
 .op-menu .op-menu-ul li[name=fontColor] {
 	order: 2017!important;
@@ -560,7 +560,7 @@ background: #0000001a;
     cursor: pointer;
     margin: 1px 0px 0 13px;
     color: #000000c2;
-    font-size: 15px;
+    
     
 }
 body#jShape.theme-night #star-wrap > div {
@@ -586,7 +586,7 @@ body#jShape.theme-night #star-wrap > div {
 }
 .theme-orange .navbar-brand {
     
-    font-size: 23px;
+    
     line-height: 1;
 }
 body#jShape.theme-night .plugin-outline-wrap .node-zoomin {
@@ -708,14 +708,14 @@ body#jShape.theme-night #detail-wrap .nmarkdown span[linkto] {
 }
 body#jShape.theme-night code {
     padding: .2rem .4rem;
-    font-size: 90%;
+   
     color: var(--theme-color);
     background-color: #ffffff00;
     border-radius: 0.25rem;
 }
 code {
     padding: .2rem .4rem;
-    font-size: 90%;
+   
     color: #000000;
     background-color: #ffffff00;
     border-radius: 0.25rem;
@@ -871,7 +871,7 @@ border: 1px solid #fff0;
 .plugin-outline-wrap .node.node-topic:not(.node-foldup) > .node-btn::before {
     background-color: transparent;
     content: '\f016';
-    font-size: 13px;
+    
     color: #000;
     margin-left: -2px;
 }
@@ -950,7 +950,7 @@ margin-left: 18px;
 }
 
 body#jShape.theme-night #detail-wrap .node-search-result:not(.plg-cmd-search) > .node-head > .node-text {
-    font-size: 16px;
+    
     color: #ffffffb3;
     padding-left: 1045px;
 }
@@ -1163,7 +1163,7 @@ border-radius: 0 0 9px 9px;
     box-shadow: rgb(0 0 0 / 31%) 3px 1px 5px 0px !important;
 }
 #detail-wrap .node-search-result:not(.plg-cmd-search) > .node-head > .node-text {
-    font-size: 16px;
+    
     color: #0a0a0a;
     padding-left: 1045px;
 }
@@ -1217,7 +1217,7 @@ top:0px;
 .sidebar .menu .list .header {
     background: #ffffff21;
     border-bottom: 1px solid #fff0;
-    font-size: 15px;
+    
     font-weight: 600;
     padding: 6px 20px;
     color: black;
@@ -1426,7 +1426,7 @@ body#jShape.theme-night .label {
     padding: 7px 12px;
     text-transform: lowercase;
     color: #fff;
-    font-size: 12px;
+    
 }
 .label.label-warning {
     background-color: var(--theme-color);
@@ -1523,7 +1523,7 @@ body#jShape.theme-night #roam-wrap .multi-selected {
 }
 
 #detail-wrap .node[layout=flexmap] > .node-scroll > .node-text-clone {
-    font-size: 22px;
+    
     padding-top: 10px;
     padding-bottom: 10px;
     padding-right: 30px;
@@ -1542,7 +1542,7 @@ body#jShape.theme-night #roam-wrap .multi-selected {
     color: #0275d8;
 }
 body#jShape.theme-night #detail-wrap .node[layout=flexmap] > .node-scroll > .node-text-clone {
-    font-size: 22px;
+   
     padding-top: 5px;
     padding-bottom: 5px;
     padding-right: 5px;
@@ -1675,7 +1675,7 @@ body#jShape.theme-night .help-text {
     padding: 3px 0px;
     color: #a7b9c1;
     font-weight: 300;
-    font-size: 12px;
+    
     flex-basis: 100%;
     display: block;
     margin-left: 15px;
@@ -1947,7 +1947,7 @@ border: 1px solid #e0e0e057;
 body#jShape.theme-night #roam-wrap .more-btn {
     color: var(--theme-color);
     opacity: 1;
-    font-size: 20px;
+    
 }
 .plugin-outline-wrap .node-btn-wrap:not(:empty) > * {
     margin: 3px 7px 3px 0px;
@@ -2019,7 +2019,7 @@ body#jShape.theme-night #detail-wrap .nmarkdown .check-btn::before {
     color: #ffffff9e;
 }
 #detail-wrap .nmarkdown .check-btn::before {
-    font-size: 16px;
+   
     display: inline-block;
     color: #0000009e;
     margin-right: 7px;
@@ -2029,7 +2029,7 @@ body#jShape.theme-night #detail-wrap .nmarkdown .check-btn::before {
     border-left: 6px solid #4F7FA1 !important;
     padding-left: 18px;
     margin-left: 32px;
-    font-size: 15px;
+    
         opacity: 0.8;
 }
 
@@ -2042,7 +2042,7 @@ body#jShape.theme-night #detail-wrap .nmarkdown .check-btn::before {
 
 
 #detail-wrap .node:not(.node-top):not(.node-topic)[layout=panel] > .node-head > .node-text {
-    font-size: 17px !important;
+    
     padding-top: 3px;
     padding-bottom: 3px;
     color: var(--common-font-inverse-color) !important;
@@ -2056,67 +2056,67 @@ body#jShape.theme-night #detail-wrap .nmarkdown .check-btn::before {
     border-bottom: 1px solid transparent;
     margin-right: 5px;
     cursor: default;
-    font-size: 15px;
+    
     line-height: 180%;
     word-break: break-all;
     letter-spacing: 1px;
 }
 
 #detail-wrap .nmarkdown.h1 > .node-head .node-text, #detail-wrap .nmarkdown.header-1 > .node-head .node-text {
-    font-size: 22px;
+    
 }
 
 body#jShape.theme-night #detail-wrap .nmarkdown.h1 > .node-head .node-text, #detail-wrap .nmarkdown.header-1 > .node-head .node-text {
-    font-size: 22px;
+    
     font-weight: 500;
 color: var(--theme-color) !important;
 
 }
 body#jShape.theme-night #detail-wrap .nmarkdown.h2 > .node-head .node-text, #detail-wrap .nmarkdown.header-1 > .node-head .node-text {
-    font-size: 21px;
+    
     font-weight: 500;
    color:  var(--theme-color) !important;
     opacity: 0.9;
 }
 #detail-wrap .nmarkdown.h2 > .node-head .node-text, #detail-wrap .nmarkdown.header-1 > .node-head .node-text {
-    font-size: 21px;
+    
 }
 
 body#jShape.theme-night #detail-wrap .nmarkdown.h3 > .node-head .node-text, #detail-wrap .nmarkdown.header-1 > .node-head .node-text {
-    font-size: 20px;
+    
     font-weight: 500;
     color: var(--theme-color) ;
     opacity: 0.8;
 }
  #detail-wrap .nmarkdown.h3 > .node-head .node-text, #detail-wrap .nmarkdown.header-1 > .node-head .node-text {
-    font-size: 20px;
+    
 }
 
 body#jShape.theme-night #detail-wrap .nmarkdown.h4 > .node-head .node-text, #detail-wrap .nmarkdown.header-1 > .node-head .node-text {
-    font-size: 19px;
+    
     font-weight: 500;
    color:var(--theme-color) ;
  opacity: 0.7;
 }
 #detail-wrap .nmarkdown.h4 > .node-head .node-text, #detail-wrap .nmarkdown.header-1 > .node-head .node-text {
-    font-size: 19px;
+    
 }
 
 body#jShape.theme-night #detail-wrap .nmarkdown.h5> .node-head .node-text, #detail-wrap .nmarkdown.header-1 > .node-head .node-text {
-    font-size: 18px;
+   
     font-weight: 500;
    color: var(--theme-color) ;
  opacity: 0.6;
 }
  #detail-wrap .nmarkdown.h5> .node-head .node-text, #detail-wrap .nmarkdown.header-1 > .node-head .node-text {
-    font-size: 18px;
+    
 }
 
 #detail-wrap .nmarkdown.h6 > .node-head .node-text, #detail-wrap .nmarkdown.header-1 > .node-head .node-text {
-    font-size: 17px;
+    
 }
 body#jShape.theme-night #detail-wrap .nmarkdown.h6 > .node-head .node-text, #detail-wrap .nmarkdown.header-1 > .node-head .node-text {
-    font-size: 17px;
+    
     font-weight: 500;
    color: var(--theme-color) ;
  opacity: 0.6;
