@@ -409,7 +409,7 @@ body#jShape.theme-night .node[mystyle="瀑布流"]>.node-child>.node,body#jShape
 }
 body#jShape.theme-night #detail-wrap .node-search-result:not(.plg-cmd-search) > .node-child > .node > .node-head > .node-text {
     color: var(--theme-color);
-   
+    
     cursor: pointer;
     font-weight: 400;
 }
@@ -708,14 +708,14 @@ body#jShape.theme-night #detail-wrap .nmarkdown span[linkto] {
 }
 body#jShape.theme-night code {
     padding: .2rem .4rem;
-   
+    
     color: var(--theme-color);
     background-color: #ffffff00;
     border-radius: 0.25rem;
 }
 code {
     padding: .2rem .4rem;
-   
+    
     color: #000000;
     background-color: #ffffff00;
     border-radius: 0.25rem;
@@ -1542,7 +1542,7 @@ body#jShape.theme-night #roam-wrap .multi-selected {
     color: #0275d8;
 }
 body#jShape.theme-night #detail-wrap .node[layout=flexmap] > .node-scroll > .node-text-clone {
-   
+    
     padding-top: 5px;
     padding-bottom: 5px;
     padding-right: 5px;
@@ -2019,7 +2019,7 @@ body#jShape.theme-night #detail-wrap .nmarkdown .check-btn::before {
     color: #ffffff9e;
 }
 #detail-wrap .nmarkdown .check-btn::before {
-   
+    
     display: inline-block;
     color: #0000009e;
     margin-right: 7px;
@@ -2059,6 +2059,7 @@ body#jShape.theme-night #detail-wrap .nmarkdown .check-btn::before {
     
     line-height: 180%;
     word-break: break-all;
+    
     letter-spacing: 1px;
 }
 
@@ -2103,7 +2104,7 @@ body#jShape.theme-night #detail-wrap .nmarkdown.h4 > .node-head .node-text, #det
 }
 
 body#jShape.theme-night #detail-wrap .nmarkdown.h5> .node-head .node-text, #detail-wrap .nmarkdown.header-1 > .node-head .node-text {
-   
+    
     font-weight: 500;
    color: var(--theme-color) ;
  opacity: 0.6;
