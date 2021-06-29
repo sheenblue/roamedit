@@ -109,6 +109,6 @@ font-weight: bold;
 
 }
 /*文字对齐*/
-t{text-align: center;}
+.{text-align: center;}
 .tlt{text-align: left;}
 .trt{text-align: right;}
