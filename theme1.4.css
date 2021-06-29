@@ -25,7 +25,7 @@ body#jShape.theme-night #detail-wrap {
 #jShape, #detail-wrap {
     height: 100vh;
     overflow: hidden;
-     background-image:url(https://i.loli.net/2021/05/13/kzyI4cqTFNultEs.jpg);
+     background-image:url(hhttps://i.loli.net/2021/05/13/kzyI4cqTFNultEs.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
@@ -473,7 +473,7 @@ border-radius: 9px 3px 3px 9px;
 
 /*——————————————————————多彩标签————————————————————————*/
 #detail-wrap .node:not(.node-top):not(.node-topic)[layout=panel] > .node-head > .node-text * {
-    
+   
 }
 .op-menu .op-menu-ul li[name=fontColor] {
 	order: 2017!important;
@@ -560,7 +560,7 @@ background: #0000001a;
     cursor: pointer;
     margin: 1px 0px 0 13px;
     color: #000000c2;
-    
+    font-size: 15px;
     
 }
 body#jShape.theme-night #star-wrap > div {
@@ -586,7 +586,7 @@ body#jShape.theme-night #star-wrap > div {
 }
 .theme-orange .navbar-brand {
     
-    
+    font-size: 23px;
     line-height: 1;
 }
 body#jShape.theme-night .plugin-outline-wrap .node-zoomin {
@@ -708,14 +708,14 @@ body#jShape.theme-night #detail-wrap .nmarkdown span[linkto] {
 }
 body#jShape.theme-night code {
     padding: .2rem .4rem;
-    
+    font-size: 90%;
     color: var(--theme-color);
     background-color: #ffffff00;
     border-radius: 0.25rem;
 }
 code {
     padding: .2rem .4rem;
-    
+    font-size: 90%;
     color: #000000;
     background-color: #ffffff00;
     border-radius: 0.25rem;
@@ -871,7 +871,7 @@ border: 1px solid #fff0;
 .plugin-outline-wrap .node.node-topic:not(.node-foldup) > .node-btn::before {
     background-color: transparent;
     content: '\f016';
-    
+    font-size: 13px;
     color: #000;
     margin-left: -2px;
 }
@@ -1217,7 +1217,7 @@ top:0px;
 .sidebar .menu .list .header {
     background: #ffffff21;
     border-bottom: 1px solid #fff0;
-    
+    font-size: 15px;
     font-weight: 600;
     padding: 6px 20px;
     color: black;
